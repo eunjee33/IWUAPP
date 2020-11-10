@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075231255417",
+    "firebase_url": "https://iwu-schedule.firebaseio.com",
+    "project_id": "iwu-schedule",
+    "storage_bucket": "iwu-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075231255417:android:f139a99de99f9287361da8",
+        "android_client_info": {
+          "package_name": "com.example.iwu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075231255417-9jpnomu4r7c8ohd27qnohr93lcaokpeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iwu",
+            "certificate_hash": "fb0706076b73d38a250f608f156b0437d5ba5886"
+          }
+        },
+        {
+          "client_id": "1075231255417-v1l2v132d7q3up78jec0c4eeubi0udq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mvNjDWzcF9cQjMV1KTs06cxzoCpzj8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075231255417-v1l2v132d7q3up78jec0c4eeubi0udq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
